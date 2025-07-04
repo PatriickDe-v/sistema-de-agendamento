@@ -27,15 +27,15 @@ Este projeto será desenvolvido utilizando as seguintes tecnologias:
 ## 🤝 Como Contribuir
 Ficou interessado em contribuir? Siga estes passos:
 
-Faça um fork do repositório.
+- Faça um fork do repositório.
 
-Crie uma nova branch para sua feature (git checkout -b feature/minha-nova-funcionalidade).
+- Crie uma nova branch para sua feature (git checkout -b feature/minha-nova-funcionalidade).
 
-Faça suas alterações e commits (git commit -m 'feat: adiciona nova funcionalidade X').
+- Faça suas alterações e commits (git commit -m 'feat: adiciona nova funcionalidade X').
 
-Envie suas alterações para o seu fork (git push origin feature/minha-nova-funcionalidade).
+- Envie suas alterações para o seu fork (git push origin feature/minha-nova-funcionalidade).
 
-Abra um Pull Request para o repositório original.
+- Abra um Pull Request para o repositório original.
 
 Por favor, certifique-se de que seu código siga as diretrizes de estilo do projeto e que os testes estejam passando.
 
